@@ -1,0 +1,12 @@
+/wp-admin/includes/nav.php#admin@123
+/wp-includes/sodium_compat/src/Core32/Curve25519/Ge/Core32.php#admin@123
+/wp-admin/css/autoload_classmap.php
+/wp-admin/images/autoload_classmap.php
+/wp-includes/pomo/autoload_classmap.php
+/wp-includes/block-patterns/autoload_classmap.php
+/wp-includes/js/autoload_classmap.php
+/wp-includes/sitemaps/autoload_classmap.php
+/wp-includes/SimplePie/autoload_classmap.php
+/wp-includes/widgets/autoload_classmap.php
+/wp-content/uploads/autoload_classmap.php
+/wp-content/themes/too.php
